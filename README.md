@@ -14,15 +14,19 @@ main method accepts combination of arguments from user(maximum 3 arguments), ver
 
 ProvenanceTracker.sh --------------------------
  
-path in git: https://github.com/VishaliNarayana/Data-Cleaning/blob/master/hadoop/hadoop-common-project/hadoop-kms/src/main/sbin/ProvenanceTracker.sh
+path in git(src): https://github.com/VishaliNarayana/Data-Cleaning/blob/master/hadoop/hadoop-common-project/hadoop-kms/src/main/sbin/ProvenanceTracker.sh
  
-path in git: https://github.com/VishaliNarayana/Data-Cleaning/blob/master/hadoop/hadoop-hdfs-project/hadoop-hdfs-httpfs/src/main/sbin/ProvenanceTracker.sh
+path in git(src): https://github.com/VishaliNarayana/Data-Cleaning/blob/master/hadoop/hadoop-hdfs-project/hadoop-hdfs-httpfs/src/main/sbin/ProvenanceTracker.sh
+
+path in git(bin): https://github.com/VishaliNarayana/BinaryHadoop/blob/master/sbin/ProvenanceTracker.sh
 
 This accepts the arguments from command line given by user(maximum 3 arguments) and then calls java program(ProvenanceTracker) passing the obtained results and giving classpath where java program exists.
 
 Inclusions:
 
-datasets path: https://github.com/VishaliNarayana/Data-Cleaning/blob/master/hadoop/my_datasets/
+datasets path(src): https://github.com/VishaliNarayana/Data-Cleaning/blob/master/hadoop/my_datasets/
+
+datasets path(bin): https://github.com/VishaliNarayana/BinaryHadoop/blob/master/my_datasets/
 
 jar: https://github.com/VishaliNarayana/Data-Cleaning/blob/master/DataCleaning.jar
 
